@@ -1,0 +1,173 @@
+
+.image {
+    width: 100%;
+    height:100%;
+    padding-left: 150px;
+    padding-top: 90px;
+    
+    background-color: rgb(216, 59, 7);
+   
+    
+    
+}
+
+
+.polo {
+    width: 100%;
+    height:100%;
+    padding-left: 150px;
+    padding-top: 120px;
+    
+    background-color: rgba(1, 1, 11, 0.931);
+    color: orange;
+}
+
+html, body {
+    margin: 0;
+}
+
+
+.Cake {
+    
+    background-color: rgba(1, 1, 11, 0.931);   
+    
+    
+}
+
+.Cake2 {
+    height:100%;
+    padding-left: 150px;
+    padding-top: 30px;
+    font-size: larger;
+    
+    margin-left: 9%;
+    color: orange;
+}
+
+.Pie {
+    
+    background-color: rgba(1, 1, 11, 0.931);
+    width: 100%;
+    height: 100%;
+   
+}
+.Pie2 {
+     font-size: larger;
+     padding-left: 150px;
+     padding-top: 30px;
+     padding-bottom: 40px;
+     
+     margin-left: 8%;
+     color: orange;
+ 
+}
+
+.Pizza {
+    font-size: 17px;
+    height: 3000px;
+    width:4000px;
+    background-color: rgba(1, 1, 11, 0.931);}
+
+.Pizza2 {
+    padding-left: 5%;
+    font-size: larger;
+    padding-top: 50px;
+    width: 3400;
+    
+    margin-left: 40px;
+    color: orange;
+}
+
+.reccake {
+    color:antiquewhite
+}
+.See {
+    color: blueviolet;
+}
+
+.ingred p{
+    color:rgb(235, 23, 125)
+}
+
+.direction p{
+    color:aquamarine
+}
+
+.IngredPie {
+    color:blueviolet
+}
+.directions2 {
+    color:burlywood
+}
+.peopleR {
+    color:aliceblue
+}
+table, th, td {
+    border: 2px solid black;
+    font-size:30px;
+}
+
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 1.7%;
+    margin-right: 0.2%;
+    /*NEW CODE: MAKE NAV BAR FIXED*/
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  .Section3 {
+    width: 100%;
+    height:100%;
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    font-size: larger;
+    
+    background-color: rgba(1, 1, 11, 0.931);
+    color: orange;
+  }
+
+  .calltoaction {
+    width: 100%;
+    height:100%;
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    color:antiquewhite;
+    flex-direction: row;
+    
+    background-color: rgba(58, 58, 239, 0.779);
+  }
+
+.logo {
+    position:absolute;
+    margin-left: 51%;
+    margin-bottom: 550px;
+}
+
+.marginaction {
+    border-left: 4px solid rgb(157, 10, 210);
+    margin-left: 12%;
+    padding-left: 4%;
+    font-size: larger;
+
+}
+
+.imagecall {
+    margin-left: 25%;
+    
+}
